@@ -1,4 +1,4 @@
-from agruar_por_extension import mover_archivos
+from agrupar_por_extension import mover_archivos
 from comprimir_archivos import compresor_img
 from eliminar_duplicados import eliminar_duplicados
 from agrupar_por_fecha import crear_carpeta
