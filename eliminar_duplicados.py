@@ -1,5 +1,6 @@
 from pathlib import Path
 
+
 def es_dir(ruta):
     path = Path(ruta)
     return path.is_dir()

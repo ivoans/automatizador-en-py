@@ -24,6 +24,7 @@ def agrupar_por_fecha(ruta):
             archivos[fecha].append(archivo.name)
     return archivos
 
+
 def crear_carpeta(ruta):
     """
     Crea una carpeta por cada fecha de modificacion de los archivos.

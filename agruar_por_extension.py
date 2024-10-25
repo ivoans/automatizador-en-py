@@ -32,6 +32,7 @@ def agrupar_por_extension(ruta):
     return archivos
 
 
+
 def mover_archivos(ruta):
     """
     Crea una carpeta por cada extensión de archivo o si la carpeta ya existe

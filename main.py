@@ -3,6 +3,7 @@ from comprimir_archivos import compresor_img
 from eliminar_duplicados import eliminar_duplicados
 from agrupar_por_fecha import crear_carpeta
 
+
 def main():
     print("Ingrese que desea realizar:\n1. Comprimir archivos\n2. Eliminar archivos duplicados\n3. Agrupar archivos por fecha\n4. Agrupar archivos por extension\n5. Salir")
     accion = 0
